@@ -10,6 +10,10 @@ I am a doctoral student in the Department of Languages at the University of Hels
 
 I still have a long way to go, but I hope I can find something interesting and useful! 
 
+## CV
+
+You can read my full CV [here](https://www.overleaf.com/read/fcgmqyrmmtzw).
+
 ## Find me on
 
 [GitHub](https://github.com/polinayordanova)  
