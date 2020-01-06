@@ -84,6 +84,7 @@ fi
 #### Week 6: Installing and Running Programs
  During this week we learned how to give commands as the root user with `sudo`, we installed software with `apt-get` and python packages with `pip`. We created python virtual environments and played around with Makefile.
 
+![Makefile](/assets/img/makefile.jpg)
 
 #### Week 7: Version Control
  Week 7 taught us how to use version control. I have had some experience with GitHub using TortoiseGit, but it was interesting for me to learn how to manage my repository from the command line. I'm still more comfortable using the Windows Shell extension, but perhaps in the future I will gain more confidence writing `git` commands directly in my command line.
